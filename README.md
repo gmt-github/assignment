@@ -1,6 +1,7 @@
 # assignment
 ## To Run the script
-```python assignment.py 
+```
+python assignment.py 
             -h (--help) ==> Argument usage help
             -f (--file) ==> To provide full extended path
             -cdb (--count_date_basis) ==> To count data on date basis
