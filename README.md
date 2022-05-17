@@ -8,4 +8,4 @@
             -cvb (--count_verb_basis) ==> To count data on verb basis
 ```
 ## Note:
-We can use all the option as well as ingle option too.
+We can use all the option as well as single option too.
